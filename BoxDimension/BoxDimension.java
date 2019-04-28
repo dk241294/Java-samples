@@ -11,7 +11,7 @@ System.out.println("breadth" +breadth);
 System.out.println("height" +height);
 }
 }
-class Example
+class BoxDimension
 {public static void  main(String[] args)
 {Box smallbox=new Box();
 smallbox.setdimension(10,20,30);

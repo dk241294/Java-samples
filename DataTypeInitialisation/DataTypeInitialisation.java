@@ -1,4 +1,4 @@
-public class T3
+public class DataTypeInitialisation
 {public static void main(String [] args){
 int m = 2;
 float n = 2.645f;
@@ -11,5 +11,5 @@ System.out.println(k);
 System.out.println(l);
 System.out.println(k);
 System.out.println(jk);
-System.out.println(m+n+k+l+jk);
+
 }}
